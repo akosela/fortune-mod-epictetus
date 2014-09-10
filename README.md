@@ -1,12 +1,10 @@
-fortune-mod-epictetus
-=====================
+## fortune-mod-epictetus
 
 This is a compilation of quotes from the ancient philosopher Epictetus
 for fortune(6).  They come from "A Selection from the Discourses of
 Epictetus with the Encheiridion" translated by George Long.
 
-Install
-=======
+## Install
 
 ```
 # strfile epictetus
@@ -14,7 +12,6 @@ Install
 # fortune epictetus
 ```
 
-See Also
-========
+## See Also
 
 http://en.wikipedia.org/wiki/Epictetus
